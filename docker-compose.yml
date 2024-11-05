@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  whatsapp-sender:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./logs:/app/logs
+      - ./images:/app/images
+      - /tmp/.X11-unix:/tmp/.X11-unix
+    environment:
+      - DEBUG=False
+      - HOST=0.0.0.0
+      - PORT=5000
+      - MAX_RETRIES=3
+      - RATE_LIMIT=100 per day
+      - LOG_FILE=/app/logs/whatsapp_sender.log
+      - MAX_WAIT_TIME=60
+      - DISPLAY=:99
+    restart: unless-stopped

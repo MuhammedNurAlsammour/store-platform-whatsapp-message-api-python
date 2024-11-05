@@ -1,0 +1,42 @@
+# Web Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Rate Limiting
+Flask-Limiter==3.5.0
+limits==3.6.0
+
+# WhatsApp Integration
+pywhatkit==5.4.0
+pyautogui==0.9.54
+
+# Phone Number Validation
+phonenumbers==8.13.27
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Type Hints Support
+typing-extensions==4.9.0
+
+# Date and Time
+pytz==2024.1
+
+# Logging and Error Handling
+colorama==0.4.6
+
+# GUI Automation Dependencies (for pywhatkit)
+opencv-python==4.9.0.80
+numpy==1.26.3
+Pillow==10.2.0
+mouse==0.7.1
+
+# Development Tools (Optional)
+pytest==7.4.4
+black==24.1.1
+flake8==7.0.0
+
+# Production Server
+gunicorn==21.2.0
+
+pika

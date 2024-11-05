@@ -1,0 +1,29 @@
+2024-11-05 07:52:18,375 - whatsapp_sender - INFO - Starting WhatsApp Sender API on 0.0.0.0:5000
+2024-11-05 07:52:34,691 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:52:35,967 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:53:28,894 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:53:30,189 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:53:39,710 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:53:40,470 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:53:56,512 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:54:03,774 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:54:04,518 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:54:05,392 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:56:56,433 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 07:56:58,065 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: C:/Users/Muhammed/Downloads/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 08:06:29,481 - whatsapp_sender - INFO - Starting WhatsApp Sender API on 0.0.0.0:5000
+2024-11-05 08:06:44,773 - whatsapp_sender - INFO - Starting WhatsApp Sender API on 0.0.0.0:5000
+2024-11-05 08:07:01,757 - whatsapp_sender - ERROR - Validation error: Invalid or non-existent image path: D:/Muhammed Nur/YapaZeka/WhatsApp/images/etkili-yoneticilerin-temel-nitelikleri.jpg
+2024-11-05 08:29:03,411 - whatsapp_sender - INFO - Starting WhatsApp Sender API on 0.0.0.0:5000
+2024-11-05 08:29:07,940 - whatsapp_sender - INFO - Attempting to send message to +905331540193
+2024-11-05 08:29:18,190 - whatsapp_sender - INFO - Successfully sent message
+2024-11-05 08:29:34,810 - whatsapp_sender - INFO - Attempting to send message to +905331540193
+2024-11-05 08:29:45,034 - whatsapp_sender - INFO - Successfully sent message
+2024-11-05 08:40:01,306 - whatsapp_sender - INFO - Attempting to send message to +905331540193
+2024-11-05 08:40:11,556 - whatsapp_sender - INFO - Successfully sent message
+2024-11-05 08:40:56,308 - whatsapp_sender - INFO - Starting WhatsApp Sender API on 0.0.0.0:5000
+2024-11-05 08:49:19,505 - whatsapp_sender - INFO - Attempting to send message to +905331540193
+2024-11-05 08:49:29,746 - whatsapp_sender - INFO - Successfully sent message
+2024-11-05 09:02:57,595 - whatsapp_sender - INFO - Starting WhatsApp Sender API on 0.0.0.0:5000
+2024-11-05 09:03:51,517 - whatsapp_sender - INFO - Attempting to send message to +905331540193
+2024-11-05 09:04:01,772 - whatsapp_sender - INFO - Successfully sent message
