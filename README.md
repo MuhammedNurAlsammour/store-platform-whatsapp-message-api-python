@@ -1,12 +1,10 @@
 ## 🌟 Overview | نظرة عامة | Genel Bakış
 
-🌍 **[EN]** WhatsApp Message Sender with RabbitMQ Integration WhatsApp mesajlaşma özelliklerini güvenilir mesaj kuyruklama ve dağıtım için RabbitMQ ile entegre eden güçlü bir mesajlaşma sistemi. Bu sistem, dağıtılmış bir mimari aracılığıyla WhatsApp mesajları göndermeyi sağlar ve yüksek kullanılabilirlik ile ölçeklenebilir mesaj işleme sunar.
-
-
 🌍 **[AR]** واتساب مرسل الرسائل مع تكامل RabbitMQ نظام مراسلة قوي يدمج قدرات المراسلة عبر واتساب مع RabbitMQ لضمان موثوقية طابور الرسائل وتوزيعها. يتيح هذا النظام إرسال رسائل واتساب من خلال بنية موزعة، مما يضمن توافر عالي ومعالجة قابلة للتطوير للرسائل.
 
+🌍 **[TR]** RabbitMQ Entegrasyonlu WhatsApp Mesaj Gönderici WhatsApp mesajlaşma özelliklerini güvenilir mesaj kuyruklama ve dağıtım için RabbitMQ ile entegre eden güçlü bir mesajlaşma sistemi. Bu sistem, dağıtılmış bir mimari aracılığıyla WhatsApp mesajları göndermeyi sağlar ve yüksek kullanılabilirlik ile ölçeklenebilir mesaj işleme sunar.
 
-🌍 **[TR]** RabbitMQ Entegrasyonlu WhatsApp Mesaj Gönderici A robust messaging system that integrates WhatsApp messaging capabilities with RabbitMQ for reliable message queuing and distribution. This system enables sending WhatsApp messages through a distributed architecture, ensuring high availability and scalable message processing.
+🌍 **[EN]** WhatsApp Message Sender with RabbitMQ Integration  A robust messaging system that integrates WhatsApp messaging capabilities with RabbitMQ for reliable message queuing and distribution. This system enables sending WhatsApp messages through a distributed architecture, ensuring high availability and scalable message processing.
 
 
 ## 🇸🇦 عربي
