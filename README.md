@@ -1,6 +1,10 @@
-# WhatsApp Message Sender with RabbitMQ Integration
-# واتساب مرسل الرسائل مع تكامل RabbitMQ
-# RabbitMQ Entegrasyonlu WhatsApp Mesaj Gönderici
+## 🌟 Overview | نظرة عامة | Genel Bakış
+
+🌍 **[EN]** WhatsApp Message Sender with RabbitMQ Integration
+
+🌍 **[AR]** واتساب مرسل الرسائل مع تكامل RabbitMQ
+
+🌍 **[TR]** RabbitMQ Entegrasyonlu WhatsApp Mesaj Gönderici
 
 
 ## 🇸🇦 عربي
