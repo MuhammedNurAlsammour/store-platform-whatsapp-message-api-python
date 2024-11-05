@@ -30,7 +30,8 @@
 ```bash
 # استنساخ المستودع
 git clone https://github.com/MuhammedNurAlsammour/store-platform-whatsapp-message-api-python.git
-
+c#
+git clone https://github.com/MuhammedNurAlsammour/store-platform-whatsapp-message-api.git 
 # تثبيت المكتبات المطلوبة
 pip install -r requirements.txt
 
@@ -62,7 +63,7 @@ Bu proje, WhatsApp mesajlaşma özelliklerini RabbitMQ mesaj kuyruğu ile entegr
 - Docker desteği
 
 ### Gereksinimler
-- Python 3.8+
+- Python 
 - RabbitMQ Sunucusu
 - Docker (isteğe bağlı)
 - Gerekli Python paketleri (requirements.txt dosyasına bakın)
@@ -71,7 +72,8 @@ Bu proje, WhatsApp mesajlaşma özelliklerini RabbitMQ mesaj kuyruğu ile entegr
 ```bash
 # Depoyu klonlayın
 git clone https://github.com/MuhammedNurAlsammour/store-platform-whatsapp-message-api-python.git
-
+# c#
+git clone https://github.com/MuhammedNurAlsammour/store-platform-whatsapp-message-api.git 
 # Bağımlılıkları yükleyin
 pip install -r requirements.txt
 
@@ -118,7 +120,7 @@ This project integrates WhatsApp messaging capabilities with RabbitMQ message qu
 - Docker support
 
 ### Requirements
-- Python 3.8+
+- Python 
 - RabbitMQ Server
 - Docker (optional)
 - Required Python packages (see requirements.txt)
@@ -127,7 +129,8 @@ This project integrates WhatsApp messaging capabilities with RabbitMQ message qu
 ```bash
 # Clone the repository
 git clone https://github.com/MuhammedNurAlsammour/store-platform-whatsapp-message-api-python.git
-
+# c#
+git clone https://github.com/MuhammedNurAlsammour/store-platform-whatsapp-message-api.git 
 # Install dependencies
 pip install -r requirements.txt
 
